@@ -5,7 +5,8 @@ Public class login
        int i =0;
 
 
-       for (i=0;i<==95;i++       
+
+       for (i=0;i<==80;i++       
    
 
 
